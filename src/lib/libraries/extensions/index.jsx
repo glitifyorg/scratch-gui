@@ -354,7 +354,7 @@ export default [
                 id="tw.customReporters.description"
             />
         ),
-        tags: ['dash'],
+        tags: ['glitify'],
         incompatibleWithScratch: true,
         featured: true
     },
@@ -401,7 +401,7 @@ export default [
             />
         ),
         incompatibleWithScratch: true,
-        tags: ['dash'],
+        tags: ['glitify'],
         featured: true
     },
     {
@@ -422,7 +422,7 @@ export default [
                 id="tw.customExtension.description"
             />
         ),
-        tags: ['dash'],
+        tags: ['glitify'],
         featured: true
         // Not marked as incompatible with Scratch so that clicking on it doesn't show a prompt
     }
