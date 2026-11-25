@@ -6,6 +6,11 @@ export default defineMessages({
         description: 'Tag for filtering a library for Dash-created content',
         id: 'dash.libraryTags.dash'
     },
+    glitify: {
+        defaultMessage: 'Glitify',
+        description: 'Tag for filtering a library for Glitify-created content',
+        id: 'dash.libraryTags.glitify'
+    },
     other: {
         defaultMessage: 'Other mods',
         description: 'Tag for filtering a library for extensions from other modifications',
