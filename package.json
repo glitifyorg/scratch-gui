@@ -98,7 +98,7 @@
     "scratch-blocks": "github:DashBlocks/scratch-blocks#develop-builds",
     "scratch-paint": "github:DashBlocks/scratch-paint#develop",
     "scratch-render": "github:DashBlocks/scratch-render#develop",
-    "scratch-vm": "github:DashBlocks/scratch-vm#develop",
+    "scratch-vm": "github:glitifyorg/scratch-vm#develop",
     "style-loader": "^4.0.0",
     "text-encoding": "0.7.0",
     "to-style": "1.3.3",
