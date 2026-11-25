@@ -31,7 +31,7 @@ const ACCENT_MAP = {
     [ACCENT_RAINBOW]: accentRainbow,
     [ACCENT_CUSTOM]: accentCustom
 };
-const ACCENT_DEFAULT = ACCENT_ORANGE;
+const ACCENT_DEFAULT = ACCENT_PURPLE;
 
 const GUI_LIGHT = 'light';
 const GUI_DARK = 'dark';
