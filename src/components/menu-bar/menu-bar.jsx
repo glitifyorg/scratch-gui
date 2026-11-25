@@ -1465,15 +1465,11 @@ class MenuBar extends React.Component {
                     />
                 )}
                 {/* !process.env.OLD_COMPILER && (<TWNews item='dash:news1' id='new-compiler' />) */}
-                {window.location.href.startsWith('https://dashblocks.org/scratch-gui') && (<TWNews
+                {window.location.href.startsWith('https://glitifyorg.github.io/scratch-gui') && (<TWNews
                     item="dash:news2"
                     id="dev-version"
                 />)}
                 {/* <TWNews item='dash:news3' id='new-year' /> */}
-                {<TWNews
-                    item="dash:news4"
-                    id="support"
-                />}
                 {/* <TWNews
                     item="dash:news5"
                     id="collab-zippr"
