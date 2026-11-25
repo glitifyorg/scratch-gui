@@ -99,7 +99,7 @@ import editIcon from './icon--edit.svg';
 import addonsIcon from './addons.svg';
 import errorIcon from './tw-error.svg';
 import advancedIcon from './tw-advanced.svg';
-import dashLogo from './dash.png';
+import dashLogo from './glitifylogo.png';
 import dashNewYearLogo from './dash-new-year.png';
 // eslint-disable-next-line no-unused-vars
 import dashZipprCollabLogo from './dash-zippr-collab-logo.svg';
