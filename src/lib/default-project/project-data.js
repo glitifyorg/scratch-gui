@@ -87,8 +87,8 @@ const projectData = translateFunction => {
             vm: '0.2.0',
             agent: '',
             platform: {
-                name: 'Dash',
-                url: 'https://dashblocks.org/'
+                name: 'Glitify',
+                url: 'https://glitify.github.io/'
             }
         }
     });
